@@ -1,0 +1,74 @@
+21/11/2022, 18:00:49  Received message (4 bytes): 0 | who
+21/11/2022, 18:00:49  Sent message     (45 bytes): 0 | Olena Olefir, K-25. Variant 21: Ping utility
+21/11/2022, 18:01:23  Received message (6 bytes): 0 | hello
+21/11/2022, 18:01:23  Sent message     (6 bytes): 0 | hello
+21/11/2022, 18:01:24  Received message (7 bytes): 1 | ping 1
+21/11/2022, 18:01:24  Sent message     (7 bytes): 1 | ping 1
+21/11/2022, 18:01:25  Received message (7 bytes): 1 | ping 2
+21/11/2022, 18:01:25  Sent message     (7 bytes): 1 | ping 2
+21/11/2022, 18:01:26  Received message (7 bytes): 1 | ping 3
+21/11/2022, 18:01:26  Sent message     (7 bytes): 1 | ping 3
+21/11/2022, 18:01:27  Received message (7 bytes): 1 | ping 4
+21/11/2022, 18:01:27  Sent message     (7 bytes): 1 | ping 4
+21/11/2022, 18:01:28  Received message (7 bytes): 1 | ping 5
+21/11/2022, 18:01:28  Sent message     (7 bytes): 1 | ping 5
+21/11/2022, 18:01:29  Received message (7 bytes): 1 | ping 6
+21/11/2022, 18:01:29  Sent message     (7 bytes): 1 | ping 6
+21/11/2022, 18:01:30  Received message (7 bytes): 1 | ping 7
+21/11/2022, 18:01:30  Sent message     (7 bytes): 1 | ping 7
+21/11/2022, 18:01:31  Received message (7 bytes): 1 | ping 8
+21/11/2022, 18:01:31  Sent message     (7 bytes): 1 | ping 8
+21/11/2022, 18:01:32  Received message (7 bytes): 1 | ping 9
+21/11/2022, 18:01:32  Sent message     (7 bytes): 1 | ping 9
+21/11/2022, 18:01:51  Received message (6 bytes): 0 | hello
+21/11/2022, 18:01:51  Sent message     (6 bytes): 0 | hello
+21/11/2022, 18:01:56  Received message (64 bytes): 1 | ping 1
+21/11/2022, 18:01:56  Sent message     (64 bytes): 1 | ping 1
+21/11/2022, 18:02:01  Received message (64 bytes): 1 | ping 2
+21/11/2022, 18:02:01  Sent message     (64 bytes): 1 | ping 2
+21/11/2022, 18:02:06  Received message (64 bytes): 1 | ping 3
+21/11/2022, 18:02:06  Sent message     (64 bytes): 1 | ping 3
+21/11/2022, 18:02:11  Received message (64 bytes): 1 | ping 4
+21/11/2022, 18:02:11  Sent message     (64 bytes): 1 | ping 4
+21/11/2022, 18:02:16  Received message (64 bytes): 1 | ping 5
+21/11/2022, 18:02:16  Sent message     (64 bytes): 1 | ping 5
+21/11/2022, 18:02:33  Received message (6 bytes): 0 | hello
+21/11/2022, 18:02:33  Sent message     (6 bytes): 0 | hello
+21/11/2022, 18:02:34  Received message (64 bytes): 1 | ping 1
+21/11/2022, 18:02:34  Sent message     (64 bytes): 1 | ping 1
+21/11/2022, 18:02:35  Received message (64 bytes): 1 | ping 2
+21/11/2022, 18:02:35  Sent message     (64 bytes): 1 | ping 2
+21/11/2022, 18:02:36  Received message (64 bytes): 1 | ping 3
+21/11/2022, 18:02:36  Sent message     (64 bytes): 1 | ping 3
+11/21/2022, 9:44:01 PM  Received message (4 bytes): 0 | who
+11/21/2022, 9:44:01 PM  Sent message     (45 bytes): 0 | Olena Olefir, K-25. Variant 21: Ping utility
+11/21/2022, 9:52:06 PM  Received message (6 bytes): 0 | hello
+11/21/2022, 9:52:06 PM  Sent message     (6 bytes): 0 | hello
+11/21/2022, 9:52:08 PM  Received message (100 bytes): 1 | ping 1
+11/21/2022, 9:52:08 PM  Sent message     (100 bytes): 1 | ping 1
+11/21/2022, 9:52:10 PM  Received message (100 bytes): 1 | ping 2
+11/21/2022, 9:52:10 PM  Sent message     (100 bytes): 1 | ping 2
+11/21/2022, 9:52:12 PM  Received message (100 bytes): 1 | ping 3
+11/21/2022, 9:52:12 PM  Sent message     (100 bytes): 1 | ping 3
+11/21/2022, 9:52:14 PM  Received message (100 bytes): 1 | ping 4
+11/21/2022, 9:52:14 PM  Sent message     (100 bytes): 1 | ping 4
+11/21/2022, 9:52:16 PM  Received message (100 bytes): 1 | ping 5
+11/21/2022, 9:52:16 PM  Sent message     (100 bytes): 1 | ping 5
+11/21/2022, 9:52:18 PM  Received message (100 bytes): 1 | ping 6
+11/21/2022, 9:52:18 PM  Sent message     (100 bytes): 1 | ping 6
+11/21/2022, 9:52:20 PM  Received message (100 bytes): 1 | ping 7
+11/21/2022, 9:52:20 PM  Sent message     (100 bytes): 1 | ping 7
+11/21/2022, 9:52:22 PM  Received message (100 bytes): 1 | ping 8
+11/21/2022, 9:52:22 PM  Sent message     (100 bytes): 1 | ping 8
+11/21/2022, 9:52:24 PM  Received message (100 bytes): 1 | ping 9
+11/21/2022, 9:52:24 PM  Sent message     (100 bytes): 1 | ping 9
+11/21/2022, 9:52:51 PM  Received message (6 bytes): 0 | hello
+11/21/2022, 9:52:51 PM  Sent message     (6 bytes): 0 | hello
+11/21/2022, 9:52:52 PM  Received message (64 bytes): 1 | ping 1
+11/21/2022, 9:52:52 PM  Sent message     (64 bytes): 1 | ping 1
+11/21/2022, 9:52:53 PM  Received message (64 bytes): 1 | ping 2
+11/21/2022, 9:52:53 PM  Sent message     (64 bytes): 1 | ping 2
+11/21/2022, 9:52:54 PM  Received message (64 bytes): 1 | ping 3
+11/21/2022, 9:52:54 PM  Sent message     (64 bytes): 1 | ping 3
+11/21/2022, 9:52:55 PM  Received message (64 bytes): 1 | ping 4
+11/21/2022, 9:52:55 PM  Sent message     (64 bytes): 1 | ping 4

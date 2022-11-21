@@ -1,0 +1,5 @@
+{
+  "javascript.suggestionActions.enabled": false,
+  "typescript.suggestionActions.enabled": false,
+  "editor.formatOnSaveMode": "modifications"
+}
